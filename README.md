@@ -13,6 +13,7 @@ cd taskmate
 ```
 Apa saja yang harus dicopy
 
+```bash
 app/                    # halaman & navigasi tabs (Expo Router)
   _layout.jsx
   index.jsx
@@ -24,6 +25,7 @@ src/                    # komponen & data
   data/dummyTasks.js
 
 README.md               # (opsional) penjelasan project
+```
 
 Catatan:
 
